@@ -1,0 +1,52 @@
+[
+  {
+    "ISBN": "9780061120084",
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee"
+  },
+  {
+    "ISBN": "9780141439518",
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen"
+  },
+  {
+    "ISBN": "9780743273565",
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald"
+  },
+  {
+    "ISBN": "9780451524935",
+    "Title": "1984",
+    "Author": "George Orwell"
+  },
+  {
+    "ISBN": "9780618640157",
+    "Title": "The Lord of the Rings",
+    "Author": "J.R.R. Tolkien"
+  },
+  {
+    "ISBN": "9780307277671",
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger"
+  },
+  {
+    "ISBN": "9780062315007",
+    "Title": "The Alchemist",
+    "Author": "Paulo Coelho"
+  },
+  {
+    "ISBN": "9780141182636",
+    "Title": "Animal Farm",
+    "Author": "George Orwell"
+  },
+  {
+    "ISBN": "9780316769174",
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger"
+  },
+  {
+    "ISBN": "9780007136556",
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien"
+  }
+]

@@ -1,0 +1,6 @@
+C:\Users\Tom\source\repos\software_dev_test_11-07-2024\BookLibraryTests\obj\Debug\net8.0\BookLibraryTests.csproj.AssemblyReference.cache
+C:\Users\Tom\source\repos\software_dev_test_11-07-2024\BookLibraryTests\obj\Debug\net8.0\BookLibraryTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\source\repos\software_dev_test_11-07-2024\BookLibraryTests\obj\Debug\net8.0\BookLibraryTests.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\software_dev_test_11-07-2024\BookLibraryTests\obj\Debug\net8.0\BookLibraryTests.AssemblyInfo.cs
+C:\Users\Tom\source\repos\software_dev_test_11-07-2024\BookLibraryTests\obj\Debug\net8.0\BookLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\software_dev_test_11-07-2024\BookLibraryTests\obj\Debug\net8.0\BookLibraryTests.sourcelink.json
